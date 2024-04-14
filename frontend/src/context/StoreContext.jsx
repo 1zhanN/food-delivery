@@ -1,4 +1,4 @@
-import { createContext, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 import { assets, food_list } from "../assets/assets";
 
 
@@ -23,9 +23,19 @@ const StoreContextProvider = (props) => {
 
     }
 
+    useEffect(()=>{
+        console.log(cartItems);
+
+    },[cartItems])
+
     const contextValue = {
-        food_list
+        food_list,
+        cartItems,
+        setCartItems,
+        addToCart,
+        removeFromCart
     }
+
 
     return(
         <StoreContext.Provider value={contextValue}>
