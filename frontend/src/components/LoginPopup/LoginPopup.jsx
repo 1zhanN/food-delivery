@@ -12,7 +12,7 @@ const LoginPopup = ({ setShowlogin }) => {
           <h2>{currentState}</h2>
           <img onClick={() => setShowlogin(false)} src={assets.cross_icon} />
         </div>
-        <div className="login-popup-input">
+        <div className="login-popup-inputs">
           {currentState === "Login" ? (
             <></>
           ) : (
