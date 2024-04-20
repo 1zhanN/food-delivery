@@ -19,9 +19,6 @@ The Tomato Food Delivery App is a web-based platform designed to provide users w
   - Node.js: JavaScript runtime environment for server-side scripting.
 - **HTML/CSS**: Front end styling and layout.
 - **JavaScript**: Programming language used for front end functionality.
-- **Redux**: State management library for React applications.
-- **JWT**: JSON Web Tokens for user authentication.
-- **Stripe API**: Payment processing integration for secure transactions.
 
 ## Getting Started
 
