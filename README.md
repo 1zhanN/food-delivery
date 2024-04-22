@@ -1,6 +1,6 @@
-# Tomato Food Delivery App (-Incomplete-)
+# Tomato Food Delivery App
 
-The Tomato Food Delivery App is a web-based platform designed to provide users with a seamless experience for browsing restaurants, viewing menus, and placing orders for delivery. This project focuses on the front end development aspect of the application.
+The Tomato Food Delivery App is a web-based platform designed to provide users with a seamless experience for browsing restaurants, viewing menus, and placing orders for delivery. This project focuses on the ***front-end development*** aspect of the application.
 
 ## Features
 
@@ -15,24 +15,12 @@ The Tomato Food Delivery App is a web-based platform designed to provide users w
 - **MERN Stack**:
   - MongoDB: NoSQL database for storing data.
   - Express.js: Web application framework for Node.js.
-  - React.js: Front end JavaScript library for building user interfaces.
+  - React.js: Front-end JavaScript library for building user interfaces.
   - Node.js: JavaScript runtime environment for server-side scripting.
-- **HTML/CSS**: Front end styling and layout.
-- **JavaScript**: Programming language used for front end functionality.
-
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/yourusername/tomato-food-delivery-app.git`
-2. Navigate to the project directory: `cd tomato-food-delivery-app`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Access the application in your browser at `http://localhost:3000`
-
-
-
+- **HTML/CSS**: Front-end styling and layout.
+- **JavaScript**: Programming language used for front-end functionality.
 
 ## Courtesy
-Courtesy of Tomato Food Delivery App Team
-[https://www.youtube.com/watch?v=DBMPXJJfQEA&t=109s&ab_channel=GreatStack]
+[YouTube Link](https://www.youtube.com/watch?v=DBMPXJJfQEA&t=109s&ab_channel=GreatStack)
+
+Also, add that I did this project to practice React conventions.
